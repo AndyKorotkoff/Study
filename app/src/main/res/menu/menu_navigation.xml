@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto/">
+
+<item android:id="@+id/notify"
+    android:orderInCategory="1"
+    android:title="@string/menu_item_notification"
+    android:icon="@drawable/message_text"
+/>
+<item android:id="@+id/like"
+    android:orderInCategory="1"
+    android:title="@string/menu_item_like"
+    android:icon="@drawable/star"
+/>
+    <item android:id="@+id/archive"
+        android:orderInCategory="1"
+        android:title="@string/menu_item_archive"
+        android:icon="@drawable/package_down"
+        />
+</menu>
