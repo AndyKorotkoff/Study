@@ -9,9 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-/**
- * Created by root on 18.02.16.
- */
+
 public class MainActivity extends AppCompatActivity {
 
     private Toolbar toolbar;
